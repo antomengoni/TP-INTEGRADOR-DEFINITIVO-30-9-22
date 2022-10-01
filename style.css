@@ -1,0 +1,31 @@
+
+.navbar{
+    font-size: large;
+    background-color: #495057;
+}
+
+#boton{
+    color: white;
+    text-decoration: none;
+}
+
+#text-banner{
+    background-image: url(/IMAGENES/banner.jpg);
+    background-color: #495057;
+    background-blend-mode: soft-light;
+}
+
+article{
+    color: white;
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: right;
+    height: 900px;
+    align-items: center;
+    margin-right: 120px; 
+}
+
+#banner-playa{
+    background-color: #495057;
+}
+
